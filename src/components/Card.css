@@ -1,0 +1,30 @@
+.card{
+    padding: 20px;
+    width: 250px;
+    position:relative;
+}
+.card--image{
+    width:265px;
+    border-radius: 10px;
+   
+}
+.card--star{
+    height:10px;
+    align-items: center;
+   align-self: center;
+}
+.card--status{
+    padding: 5px;
+    width:265px;
+}
+.sold--badge{
+position:absolute;
+top:7%;
+right:-20px;
+color:white;
+font-weight:630;
+background-color:#0f662f ;
+padding: 1px 3px;
+border-radius: 5px;
+
+}
